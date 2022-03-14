@@ -20,7 +20,7 @@ title                    : "Pebble jji the ML 하꼬"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pebble_jji"
-description              : "An amazing website."
+description              : "아직은 하늘코끼리 말고 하꼬."
 url                      : "https://pebble-jji.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
