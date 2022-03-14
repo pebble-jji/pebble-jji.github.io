@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko"
 title                    : "Pebble jji the ML 하꼬"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Pebble_jji"
-description              : "아직은 하늘코끼리 말고 하꼬."
+description              : ""
 url                      : "https://pebble-jji.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "pebble_jji"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "아직은 하늘코끼리 아니고 **하꼬**."
+  location         : "Seoul, Korea."
   email            :
   links:
     - label: "Email"
