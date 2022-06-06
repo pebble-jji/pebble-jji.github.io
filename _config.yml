@@ -108,9 +108,9 @@ author:
   location         : "Seoul, South Korea."
   email            :
   links:
-    - label: "Email"
+    - label: "Email : maprcs999@naver.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:maprcs999@naver.com"
+      # url: "mailto:"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pebble-jji"
