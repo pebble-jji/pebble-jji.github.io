@@ -1,6 +1,6 @@
 ---
 layout : single
-title : "Hands on ML | Chapter 2 연습문제" 
+title : "2022-03-25-Hands on ML_Ch2 연습문제" 
 ---
 ## 2장 연습문제  
 
@@ -296,7 +296,7 @@ print(f'정밀도 : {precision}\n재현율 : {recall}') # 당연히 다 맞지
 #### F1 Score  
 정밀도와 재현율의 조화평균  
 $F_1 = \frac{2}{\frac{TP+FP}{TP}+ \frac{TP+FN}{TP}}=\frac{2}{\frac{2TP+FP+FN}{TP}}=\frac{2TP}{2TP+FP+FN}$  
-  
+
 
 정밀도와 재현율이 비슷하면 F1스코어가 높음  
 (적당한 선에서 합의보는것임)
