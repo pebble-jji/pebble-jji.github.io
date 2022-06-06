@@ -30,7 +30,7 @@
             <ul>
                 {% for category in site.categories %}
                     {% if category[0] == "kblife" %}
-                        <li><a href="/categories/algorithm" class="">KB IT's Your Life 1st ({{category[1].size}})</a></li>
+                        <li><a href="/categories/kblife" class="">KB IT's Your Life 1st ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
