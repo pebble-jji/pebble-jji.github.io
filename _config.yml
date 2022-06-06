@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -110,7 +110,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "maprcs999@naver.com"
+      url: "mailto:maprcs999@naver.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pebble-jji"
@@ -118,12 +118,13 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "GitHub"
+     - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:maprcs999@naver.com"   
+     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pebble-jji"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "maprcs999@naver.com"
+
 
 
 # Reading Files
