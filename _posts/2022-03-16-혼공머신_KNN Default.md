@@ -1,6 +1,8 @@
 ---
 layout : single
 title : "2022-03-16-혼공머신_K-Nearest Neighbors" 
+categories : 
+  -selfml
 ---
 ## Chapter 01 | Default K-Nearest Neighbors(KNN)
 

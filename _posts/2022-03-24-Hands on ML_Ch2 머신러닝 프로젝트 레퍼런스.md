@@ -1,6 +1,8 @@
 ---
 layout : single
-title : "2022-03-24-Hands on ML_Ch2 머신러닝 프로젝트 레퍼런스" 
+title : "2022-03-24-Hands on ML_Ch2 머신러닝 프로젝트 레퍼런스"
+categories : 
+  -homl
 ---
 
 ## 핸즈온 머신러닝 
