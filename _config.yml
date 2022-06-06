@@ -106,21 +106,15 @@ author:
   avatar           : "/assets/images/profile.png"
   bio              : "석지연(23) / 머신러닝 3개월차"
   location         : "Seoul, South Korea."
-  email            :
+  email            : "maprcs999@naver.com"
   links:
-    - label: "Email : maprcs999@naver.com"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pebble-jji"
 
 # Site Footer
 footer:
-  links:
-     - label: "Email : maprcs999@naver.com"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:maprcs999@naver.com"   
+  links:   
      - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pebble-jji"
