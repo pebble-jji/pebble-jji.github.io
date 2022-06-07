@@ -13,14 +13,14 @@
             <ul>
                 <!--Cpp 카테고리 글들을 모아둔 페이지인 /categories/cpp 주소의 글로 링크 연결-->
                 <!--category[1].size 로 해당 카테고리를 가진 글의 개수 표시--> 
-                {% for category in site.categories %}
+                {% for category in site.categories.homl %}
                     {% if category[0] == "homl" %}
                         <li><a href="/categories/homl" class="">Hands On Machine Learning({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
-                {% for category in site.categories %}
+                {% for category in site.categories.selfml %}
                     {% if category[0] == "selfml" %}
                         <li><a href="/categories/selfml" class="">혼자 공부하는 머신러닝 ({{category[1].size}})</a></li>
                     {% endif %}
@@ -28,21 +28,21 @@
             </ul>
         <span class="nav__sub-title">Projects</span>
             <ul>
-                {% for category in site.categories %}
+                {% for category in site.categories.kblife %}
                     {% if category[0] == "kblife" %}
                         <li><a href="/categories/kblife" class="">KB IT's Your Life 1st ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
-                {% for category in site.categories %}
+                {% for category in site.categories.projects %}
                     {% if category[0] == "projects" %}
                         <li><a href="/categories/projects" class="">Projects ({{category[1].size}})</a></li>
                     {% endif %}
                 {% endfor %}
             </ul>
             <ul>
-                {% for category in site.categories %}
+                {% for category in site.categories.dacon_b %}
                     {% if category[0] == "dacon_b" %}
                         <li><a href="/categories/dacon_b" class="">Dacon Basics ({{category[1].size}})</a></li>
                     {% endif %}
