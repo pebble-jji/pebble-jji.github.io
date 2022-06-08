@@ -2,7 +2,7 @@
 layout : single
 title : "2022-03-26-Hands on ML_Ch3 다중분류 vs 이진분류"
 categories : 
-  -homl 
+  - homl 
 ---
 ## 4. 다중 분류
 이진 분류기 vs 다항 분류기
