@@ -2,7 +2,7 @@
 layout : single
 title : "2022-03-25-Hands on ML_Ch2 연습문제"
 categories : 
-  -homl
+  - homl
 ---
 ## 2장 연습문제  
 
