@@ -2,7 +2,7 @@
 layout : single
 title : "2022-03-17-Dacon Basic_손동작 분류 대회(feat. KNN)" 
 categories : 
-  -dacon_b
+  - dacon_b
 ---
 
 # KNN을 활용한 손동작 분류모델
